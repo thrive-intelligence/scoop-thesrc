@@ -1,7 +1,7 @@
 # The Source — Scoop Bucket (Windows)
 
 ```powershell
-scoop bucket add thesrc https://github.com/shaneatlas/scoop-thesrc
+scoop bucket add thesrc https://github.com/thrive-intelligence/scoop-thesrc
 scoop install thesrc
 thesrc init
 ```
